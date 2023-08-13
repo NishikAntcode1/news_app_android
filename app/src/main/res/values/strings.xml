@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">newsFresh</string>
+    <string name="logodescription">logoDescription</string>
+    <string name="newsImageDescription">description</string>
+</resources>
